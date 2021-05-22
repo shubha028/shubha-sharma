@@ -1,0 +1,97 @@
+body {
+    background-color: #131417;
+    color: #f5f7fa;
+}
+#about{
+    background-image: url();
+}
+.navbar {
+    background-color: #1e1f26;
+}
+
+.navbar .nav-link {
+    font-size: 15px;
+    text-transform: uppercase;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+}
+
+.navbar .nav-item.active {
+    border-left: #444 3px solid;
+}
+
+#about {
+    margin-top: 6.6rem;
+}
+
+#about .icon {
+    color: #f5f7fa;
+}
+
+#education .card {
+    background-color: #1e1f26;
+    border-radius: 3;
+}
+
+.img-icon {
+    height: 4rem;
+    width: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.plang {
+    border-radius: 6px;
+    box-shadow: 5px 0 15px rgba(0,0,0,.25);
+    position: relative;
+    transform: scale(.95);
+    transition: all .3s ease;
+}
+
+#experience .card {
+    background-color: #1e1f26;
+}
+
+#community .card {
+    background-color:  #1e1f26;
+}
+
+#achievements .card {
+    background-color:  #1e1f26;
+}
+
+#projects .card {
+    background-color:  #1e1f26;
+}
+
+#blog .card {
+    background-color:  #1e1f26;
+}
+
+#blog .about-img {
+    height: 6rem;
+    width: 6rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+}
+
+#blog .icon {
+    color: #f5f7fa;
+}
+
+hr {
+    border-top: 1px solid #f5f7fa;
+}
+
+video {
+    height: 20rem;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#love{
+    text-align: center;
+}
